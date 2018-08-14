@@ -1,0 +1,81 @@
+/*Chaos*/
+.ace-chaos {
+    color: #ccc !important;
+}
+.ace-chaos .ace_meta.ace_tag {
+    color: #f06484 !important;
+    font-weight: 500;
+}
+.ace-chaos span.ace_meta.ace_tag.ace_punctuation.ace_end-tag-open.ace_xml,
+.ace-chaos span.ace_meta.ace_tag.ace_punctuation.ace_tag-open.ace_xml,
+.ace-chaos span.ace_meta.ace_tag.ace_punctuation.ace_tag-close.ace_xml,
+.ace-chaos .ace_punctuation.ace_operator,
+.ace-chaos .ace_keyword.ace_operator,
+.ace-chaos .ace_paren.ace_lparen,
+.ace-chaos .ace_paren.ace_rparen{
+    color: #80c3de !important;
+}
+
+.ace-chaos .ace_support.ace_function {
+    color: #00AEEF !important;
+}
+.ace-chaos .ace_support.ace_php_tag,
+.ace-chaos .ace_storage.ace_type{
+    color: #df6bec !important;
+}
+.ace-chaos .ace_support.ace_class {
+    color: #ffb049;
+}
+.ace-chaos .ace_string {
+    color: #b0b88e !important;
+    font-weight: 300 !important;
+}
+/*.ace-chaos .ace_identifier {*/
+    /*color: #3fa1e6;*/
+/*}*/
+.ace-chaos .ace_variable {
+    color: #f67b48 !important;
+}
+.ace-chaos .ace_entity.ace_other.ace_attribute-name {
+    color: #ffaa89 !important;
+}
+#snippetCode.code .ace-chaos {
+    background-color: #131319 !important;
+    color: #E6E1DC;
+}
+.ace-chaos .ace_gutter {
+    border: none !important;
+}
+.ace-chaos .ace_constant.ace_numeric {
+    color: #f58c74 !important;
+}
+
+/*Solarized dark*/
+.ace-solarized-dark {
+
+}
+.ace-solarized-dark .ace_support.ace_class {
+    color: #bd73d0 !important;
+}
+.ace-solarized-dark span.ace_meta.ace_tag.ace_punctuation.ace_end-tag-open.ace_xml,
+.ace-solarized-dark span.ace_meta.ace_tag.ace_punctuation.ace_tag-open.ace_xml,
+.ace-solarized-dark span.ace_meta.ace_tag.ace_punctuation.ace_tag-close.ace_xml,
+.ace-solarized-dark .ace_punctuation.ace_operator,
+.ace-solarized-dark .ace_keyword.ace_operator,
+.ace-solarized-dark .ace_paren.ace_lparen,
+.ace-solarized-dark .ace_paren.ace_rparen{
+    color: #80c3de !important;
+}
+.ace-solarized-dark .ace_meta.ace_tag {
+    color: #f06484 !important;
+}
+/*.ace-solarized-dark .ace_text.ace_xml {*/
+    /*color: #d4d0ca;*/
+/*}*/
+/*.ace-solarized-dark .ace_string {*/
+    /*color: #d4d0ca !important;*/
+    /*font-weight: 300 !important;*/
+/*}*/
+.ace-solarized-dark .ace_entity.ace_other.ace_attribute-name {
+    color: #ffaa89 !important;
+}

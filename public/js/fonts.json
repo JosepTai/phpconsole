@@ -1,0 +1,34 @@
+[
+  {
+    "real_name": "Consolas",
+    "display_name": "Default"
+  },
+  {
+    "real_name": "Courier New",
+    "display_name": "Courier New"
+  },
+  {
+    "real_name": "Monaco",
+    "display_name": "Monaco"
+  },
+  {
+    "real_name": "Hack",
+    "display_name": "Hack"
+  },
+  {
+    "real_name": "Fira Code Regular",
+    "display_name": "Fira Code"
+  },
+  {
+    "real_name": "Inconsolata",
+    "display_name": "Inconsolata"
+  },
+  {
+    "real_name": "Ubuntu Mono",
+    "display_name": "Ubuntu Mono"
+  },
+  {
+    "real_name": "Source Code Pro",
+    "display_name": "Source Code Pro"
+  }
+]

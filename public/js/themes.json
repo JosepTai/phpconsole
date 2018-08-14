@@ -1,0 +1,46 @@
+{
+  "dark": [
+    {
+      "real_name": "chaos",
+      "display_name": "Material"
+    },
+    {
+      "real_name": "monokai",
+      "display_name": "Monokai"
+    },
+    {
+      "real_name": "dracula",
+      "display_name": "Dracula"
+    },
+    {
+      "real_name": "solarized_dark",
+      "display_name": "Solarized Dark"
+    },
+    {
+      "real_name": "merbivore",
+      "display_name": "Merbivore"
+    },
+    {
+      "real_name": "merbivore_soft",
+      "display_name": "Merbivore Soft"
+    }
+  ],
+  "light": [
+    {
+      "real_name": "chrome",
+      "display_name": "Chrome"
+    },
+    {
+      "real_name": "solarized_light",
+      "display_name": "Solarized Light"
+    },
+    {
+      "real_name": "eclipse",
+      "display_name": "Eclipse"
+    },
+    {
+      "real_name": "dreamweaver",
+      "display_name": "Dreamweaver"
+    }
+  ]
+}
